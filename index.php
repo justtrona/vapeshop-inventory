@@ -12,7 +12,7 @@
 ?>
   <body>
 <?php
-	require 'inc/navigation.php';
+	require 'others/navigation.php';
 ?>
     <!-- Page Content -->
     <div class="container-fluid">
@@ -559,7 +559,7 @@
 	  </div>
     </div>
 <?php
-	require 'inc/footer.php';
+	require 'others/footer.php';
 ?>
   </body>
 </html>
