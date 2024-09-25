@@ -1,9 +1,8 @@
-    <!-- Footer -->
-    <footer class="footer bg-dark">
+<footer class="footer bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">&copy; Poliquit, Fat, Badiang  <?php echo date('Y'); ?></p>
 		
-      </div>
+       </div>
     </footer>
 
     <!-- Bootstrap core JavaScript -->
