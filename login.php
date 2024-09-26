@@ -58,7 +58,7 @@ $action = '';
 			  </div>
 			</div>
 <?php
-			require 'inc/footer.php';
+			require 'others/footer.php';
 			echo '</body></html>';
 			exit();
 		} elseif($action == 'resetPassword'){
@@ -96,7 +96,7 @@ $action = '';
 			  </div>
 			</div>
 <?php
-			require 'inc/footer.php';
+			require 'others/footer.php';
 			echo '</body></html>';
 			exit();
 		}
@@ -132,7 +132,7 @@ $action = '';
       </div>
     </div>
 <?php
-	require 'inc/footer.php';
+	require 'others/footer.php';
 ?>
   </body>
 </html>
